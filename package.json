@@ -4,7 +4,7 @@
   "main": "src/index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "nodemone --inspect src/index.js",
+    "start": "node --inspect src/index.js",
     "watch": "node-sass  src/resources/scss/app.scss src/public/css/app.css"
   },
   "keywords": [
